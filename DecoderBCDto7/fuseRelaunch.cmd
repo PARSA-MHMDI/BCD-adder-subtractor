@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Study/AUT/Term6/AZ Logical/Homework1and2/DecoderBCDto7/TB_Decoder_isim_beh.exe" -prj "D:/Study/AUT/Term6/AZ Logical/Homework1and2/DecoderBCDto7/TB_Decoder_beh.prj" "work.TB_Decoder" 

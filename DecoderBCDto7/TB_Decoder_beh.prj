@@ -1,0 +1,2 @@
+vhdl work "Decoder.vhd"
+vhdl work "TB_Decoder.vhd"

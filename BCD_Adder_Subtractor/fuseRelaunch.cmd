@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/TB_BCD_isim_beh.exe" -prj "D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/TB_BCD_beh.prj" "work.TB_BCD" 

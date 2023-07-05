@@ -1,0 +1,5 @@
+vhdl work "Half_Adder.vhd"
+vhdl work "full_adder.vhd"
+vhdl work "Fourbit_adder.vhd"
+vhdl work "BCD_ADDER_SUBTRACTOR.vhd"
+vhdl work "TB_BCD.vhd"

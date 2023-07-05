@@ -1,0 +1,26 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/TB_BCD_isim_beh.exe -prj D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/TB_BCD_beh.prj work.TB_BCD 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/Half_Adder.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/full_adder.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/Fourbit_adder.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/BCD_ADDER_SUBTRACTOR.vhd" into library work
+Parsing VHDL file "D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/TB_BCD.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity half_adder [half_adder_default]
+Compiling architecture behavioral of entity Full_adder [full_adder_default]
+Compiling architecture behavioral of entity four_bit_adder [four_bit_adder_default]
+Compiling architecture behavioral of entity BCD_ADDER_SUBTRACTOR [bcd_adder_subtractor_default]
+Compiling architecture behavior of entity tb_bcd
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 12 VHDL Units
+Built simulation executable D:/Study/AUT/Term6/AZ Logical/Homework/BCD_Adder_Subtractor/TB_BCD_isim_beh.exe
+Fuse Memory Usage: 35836 KB
+Fuse CPU Usage: 890 ms
